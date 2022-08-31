@@ -1,12 +1,51 @@
 body {
+
     margin : 0px ;
+
     padding :0px ;
+
     
+
 }
 
 .head {
-    background: blue;
+
+    background: red;
+
     overflow: hidden ;
-    
-    
+
+  
+
 }
+
+.logo {
+
+    
+
+   width: 20% ;
+
+    float: left ;
+
+    overflow: hidden ;
+
+}
+
+.menu {
+
+    width: 80% ;
+
+    float : left ;
+
+    overflow : hidden ;
+
+ 
+
+}
+
+.menu li {
+
+    display: inline-block ;
+
+    
+
+    
