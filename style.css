@@ -65,7 +65,15 @@ color : #fff ;
 
 
 }
-
+.menu2 {
+  width : 1080px ;
+  overflow: hidden ; 
+    }
+.menu2 ul {
+   padding : 0px ;
+    margin : 0px ;
+    padding-left : 32px ;
+    }
 .menu2 li {
   display : inline-block ;
   }
